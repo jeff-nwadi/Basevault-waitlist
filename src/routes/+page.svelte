@@ -1,9 +1,11 @@
 <main>
     <div class="text-center">
         
-        <div class="logo">
-            <h3>
-                Logo Ui
+        <div class="logo flex place-content-center">
+           
+            <h3 class="flex "> 
+                <img src="logo.svg" alt="" class="m-auto border-3"> 
+                <span class="ml-2 text-[21px]">Basevalt</span>
             </h3>
         </div>
 
